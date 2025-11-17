@@ -2,7 +2,7 @@
   "name": "cadastro",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:///RICK-1994-ITAC.github.io/Cadastro-Clientes",
+  "homepage": "https://github.com/RICK-1994-ITAC/Cadastro-Clientes-",
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
     "@testing-library/dom": "^10.4.1",
