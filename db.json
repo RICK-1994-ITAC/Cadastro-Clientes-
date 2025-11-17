@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "henrique",
+      "username": "Lopes",
+      "Email": "henrique94@g.com",
+      "phone": "+55 61 8596-6359"
+    },
+    {
+      "id": "2",
+      "name": "joao lopes",
+      "username": "jones",
+      "Email": "joaoitac@gmail.com",
+      "phone": "+55 61 8596-8796"
+    },
+    {
+      "id": "3",
+      "name": "Gustavo",
+      "username": "guga",
+      "Email": "gustavo94@gmail.com",
+      "phone": "+55 41 8965-2578"
+    },
+    {
+      "id": "4",
+      "name": "kely",
+      "username": "kely32",
+      "Email": "kely65@gmail.com",
+      "phone": "+55 41 8965-2578"
+    }
+  ]
+}
